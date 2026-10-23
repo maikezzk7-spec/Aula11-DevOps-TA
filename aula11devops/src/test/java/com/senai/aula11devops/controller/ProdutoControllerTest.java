@@ -36,7 +36,8 @@ void testarListarProdutos() throws Exception {
             {
                 "id": 1,
                 "nome": "Notebook",
-                "preco": 3500
+                 "preco": 3500
+               
             }
             """;
 
